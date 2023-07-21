@@ -1,4 +1,4 @@
-# Repository Name
+# AI Algorithms Implementations
 
 This repository contains implementations of various algorithms and problems in Python. Each directory within the repository focuses on a specific topic or algorithm, and includes example scripts showcasing the usage and functionality.
 
