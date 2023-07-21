@@ -4,14 +4,14 @@ This repository contains implementations of various algorithms and problems in P
 
 ## Table of Contents
 
-1. [NQueens BFS](/NQueens%20BFS/): Implementation of the N-Queens problem using Breadth-First Search (BFS) algorithm.
-2. [NQueens DFS](/NQueens%20DFS/): Implementation of the N-Queens problem using Depth-First Search (DFS) algorithm.
-3. [NQueens BestFS](/NQueens%20BestFS/): Implementation of the N-Queens problem using Best-First Search (BestFS) algorithm.
-4. [MinMax, Alpha-Beta Pruning](/MinMax%2C%20Alpha-Beta%20Pruning/): Implementation of the Minimax algorithm with Alpha-Beta Pruning for game playing.
-5. [Naive Bayes Classifier](/Naive%20Bayes%20Classifier/): Implementation of the Naive Bayes Classifier for discrete and continuous data.
-6. [Perceptron](/Perceptron/): Implementation of the Perceptron algorithm for binary classification.
-7. [Multi-Layer Perceptron](/Multi-Layer%20Perceptron/): Implementation of the Multi-Layer Perceptron (MLP) for classification tasks.
-8. [NQueens Genetic](/NQueens%20Genetic/): Implementation of the N-Queens problem using a Genetic Algorithm.
+1. [NQueens BFS](/1%20NQueens%20BFS/): Implementation of the N-Queens problem using Breadth-First Search (BFS) algorithm.
+2. [NQueens DFS](/2%20NQueens%20DFS/): Implementation of the N-Queens problem using Depth-First Search (DFS) algorithm.
+3. [NQueens BestFS](/3%20NQueens%20BestFS/): Implementation of the N-Queens problem using Best-First Search (BestFS) algorithm.
+4. [MinMax, Alpha-Beta Pruning](/4%20MinMax%2C%20Alpha-Beta%20Pruning/): Implementation of the Minimax algorithm with Alpha-Beta Pruning for game playing.
+5. [Naive Bayes Classifier](/5%20Naive%20Bayes%20Classifier/): Implementation of the Naive Bayes Classifier for discrete and continuous data.
+6. [Perceptron](/6%20Perceptron/): Implementation of the Perceptron algorithm for binary classification.
+7. [Multi-Layer Perceptron](/7%20Multi-Layer%20Perceptron/): Implementation of the Multi-Layer Perceptron (MLP) for classification tasks.
+8. [NQueens Genetic](/8%20NQueens%20Genetic/): Implementation of the N-Queens problem using a Genetic Algorithm.
 
 ## Dependencies
 
