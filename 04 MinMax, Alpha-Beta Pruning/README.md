@@ -1,4 +1,4 @@
-#Tic-Tac-Toe Strategy using Minimax and Alpha-Beta Pruning
+# Tic-Tac-Toe Strategy using Minimax and Alpha-Beta Pruning
 
 ## Table of Contents
 - [Introduction](#introduction)
