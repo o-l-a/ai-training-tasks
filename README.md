@@ -12,7 +12,7 @@ This repository contains implementations of various algorithms and problems in P
 6. [Perceptron](/06%20Perceptron/): Implementation of the Perceptron algorithm for binary classification.
 7. [Multi-Layer Perceptron](/07%20Multi-Layer%20Perceptron/): Implementation of the Multi-Layer Perceptron (MLP) for classification tasks.
 8. [NQueens Genetic](/08%20NQueens%20Genetic/): Implementation of the N-Queens problem using a Genetic Algorithm.
-9. [Principal Component Analysis](/09/PCA/): Implementation of Principal Component Analysis (PCA) for data visualization and dimensionality reduction.
+9. [Principal Component Analysis](/09%20PCA/): Implementation of Principal Component Analysis (PCA) for data visualization and dimensionality reduction.
 10. [k-Nearest Neighbors](/10%20k-Nearest%20Neighbors/): Implementation of the k-Nearest Neighbors (k-NN) algorithm for classification.
 11. [K-means Clustering](/11%20K-means/): Implementation of the K-means Clustering algorithm for unsupervised clustering.
 
